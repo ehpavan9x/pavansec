@@ -36,7 +36,7 @@ nav a:hover {
 .hero img {
     width: 100%;
     height: auto;
-    max-height: 500px; /* Adjust as needed */
+    max-height: 700px; /* Adjust as needed */
     object-fit: cover;
 }
 
